@@ -1,1 +1,1 @@
-# pingpong_game
+A pingpong game, made using HTML, CSS and JS.
